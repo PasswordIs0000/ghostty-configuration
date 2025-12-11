@@ -13,3 +13,6 @@ bell-features = no-system,no-audio,no-attention,no-title,no-border
 scrollback-limit = 10000000
 
 auto-update = check
+
+window-inherit-working-directory = false
+working-directory = home
