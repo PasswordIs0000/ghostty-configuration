@@ -1,0 +1,15 @@
+maximize = true
+
+font-family = "Hack"
+font-size = 14
+
+theme = "Atom One Light"
+
+right-click-action = copy-or-paste
+mouse-hide-while-typing = true
+
+bell-features = no-system,no-audio,no-attention,no-title,no-border
+
+scrollback-limit = 10000000
+
+auto-update = check
