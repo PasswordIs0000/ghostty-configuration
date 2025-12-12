@@ -1,9 +1,9 @@
 maximize = true
 
-font-family = "Hack"
+font-family = Hack
 font-size = 14
 
-theme = "Atom One Light"
+theme = light:Atom One Light,dark:Atom One Dark
 
 right-click-action = copy-or-paste
 mouse-hide-while-typing = true
