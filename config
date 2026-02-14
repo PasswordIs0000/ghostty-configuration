@@ -1,6 +1,6 @@
 maximize = true
 
-font-family = Hack
+font-family = Fira Code
 font-size = 14
 
 theme = light:Atom One Light,dark:Atom One Dark
