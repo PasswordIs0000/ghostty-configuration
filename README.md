@@ -8,3 +8,7 @@ Git working directory must be the current working directory for the shell.
 mkdir -p $HOME/.config/ghostty
 ln -s $PWD/config $HOME/.config/ghostty/config
 ```
+
+## Fonts
+- [Hack](https://github.com/source-foundry/Hack)
+- [Fira Code](https://github.com/tonsky/FiraCode)
