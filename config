@@ -1,0 +1,21 @@
+maximize = true
+
+font-family = Fira Code
+font-size = 14
+
+theme = light:Atom One Light,dark:Atom One Dark
+
+right-click-action = copy-or-paste
+mouse-hide-while-typing = true
+
+bell-features = no-system,no-audio,no-attention,no-title,no-border
+
+scrollback-limit = 10000000
+
+auto-update = check
+
+window-inherit-working-directory = false
+working-directory = home
+
+shell-integration = detect
+shell-integration-features = true
