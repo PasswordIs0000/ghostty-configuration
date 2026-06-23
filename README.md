@@ -11,4 +11,3 @@ ln -s $PWD/config $HOME/.config/ghostty/config
 
 ## Fonts
 - [Fira Code](https://github.com/tonsky/FiraCode)
-- [Hack](https://github.com/source-foundry/Hack)
